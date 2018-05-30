@@ -42,7 +42,7 @@ def createlists(zermax):
         OSA.append(OSA_to_ANSI(i))
         Noll.append(noll_to_ANSI(i))
         i +=1
-    Noll.append(noll_to_ANSI(i)) #As Noll starts in zero, we need one more.
+    Noll.append(noll_to_ANSI(i)) #As Noll do not starts in zero, we need one more.
     return(OSA,Noll)
     
 
