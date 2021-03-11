@@ -2,7 +2,7 @@
 This code perform the conversion between ANSI (OSA standard) and Noll notation
 
 This program was created by Dr. Sergio Bonaque-Gonzalez, Optical Engineer.
-sbonaque@wooptix.com
+sergio.bonaque.gonzalez@gmail.com
 
 
 ------------------------------------------------------------------------------
