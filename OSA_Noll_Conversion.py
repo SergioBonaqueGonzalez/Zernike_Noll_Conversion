@@ -3,7 +3,7 @@ Created on Tue May 29 15:03:25 2018
 
 @author: Dr. Sergio Bonaque-Gonzalez
 Optical Engineer.
-sergiob@wooptix.com
+sergio.bonaque.gonzalez@gmail.com
 """
 import numpy
 from sympy.solvers import solve
